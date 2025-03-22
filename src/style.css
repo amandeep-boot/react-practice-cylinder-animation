@@ -1,0 +1,15 @@
+.html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+#root{
+  position: fixed;
+  background-color:black;
+}
+
+img {
+  mix-blend-mode: multiply; /* Removes white background */
+}
